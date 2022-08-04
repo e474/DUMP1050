@@ -14,8 +14,8 @@
 ;
 ; Code uploaded to Happy based on articles in German Atari Magazin 1987, issues 1-5 
 ;
-;
-
+; 
+ 
 ;
 ; Handy system equates defined as part of ATASM
 ;

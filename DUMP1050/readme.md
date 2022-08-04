@@ -1,4 +1,8 @@
+#Code may trigger a disk corruption bug, please do not use until further notice
+ 
 DUMP1050 - Dump modified 1050 ROM to Atari DOS file
+
+
 
 Notes
 - Dumps the 1050 drive ROM for Happy, Lazer or similar drives
